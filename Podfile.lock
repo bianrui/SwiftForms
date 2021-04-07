@@ -1,0 +1,59 @@
+PODS:
+  - BRPickerView (2.7.3):
+    - BRPickerView/AddressPickerView (= 2.7.3)
+    - BRPickerView/Base (= 2.7.3)
+    - BRPickerView/DatePickerView (= 2.7.3)
+    - BRPickerView/StringPickerView (= 2.7.3)
+  - BRPickerView/AddressPickerView (2.7.3):
+    - BRPickerView/Base
+  - BRPickerView/Base (2.7.3)
+  - BRPickerView/DatePickerView (2.7.3):
+    - BRPickerView/Base
+  - BRPickerView/StringPickerView (2.7.3):
+    - BRPickerView/Base
+  - GKPhotoBrowser (2.1.8):
+    - GKPhotoBrowser/SD (= 2.1.8)
+  - GKPhotoBrowser/Core (2.1.8)
+  - GKPhotoBrowser/SD (2.1.8):
+    - GKPhotoBrowser/Core
+    - SDWebImage (~> 5.0)
+  - HandyJSON (5.0.2)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SnapKit (5.0.1)
+  - TZImagePickerController (3.5.8)
+
+DEPENDENCIES:
+  - BRPickerView
+  - GKPhotoBrowser
+  - HandyJSON
+  - Kingfisher (~> 5.15.0)
+  - SnapKit (~> 5.0.1)
+  - TZImagePickerController
+
+SPEC REPOS:
+  trunk:
+    - BRPickerView
+    - GKPhotoBrowser
+    - HandyJSON
+    - Kingfisher
+    - SDWebImage
+    - SnapKit
+    - TZImagePickerController
+
+SPEC CHECKSUMS:
+  BRPickerView: 9cc11880ac79c4872d081ccb88f306224c1501d7
+  GKPhotoBrowser: 61672c81464a8abb40e81eb802939bca7478a962
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  TZImagePickerController: 7fd9702897ef8c0b7c951e5463f4bcf398296f9e
+
+PODFILE CHECKSUM: 5eb12a46003d5251ab88d24085ba9d1ecdc1bfe5
+
+COCOAPODS: 1.10.0.rc.1
