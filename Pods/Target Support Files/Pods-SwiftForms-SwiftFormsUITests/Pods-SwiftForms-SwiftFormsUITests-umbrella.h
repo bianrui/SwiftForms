@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_Forms_FormsUITestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_Forms_FormsUITestsVersionString[];
+FOUNDATION_EXPORT double Pods_SwiftForms_SwiftFormsUITestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_SwiftForms_SwiftFormsUITestsVersionString[];
 

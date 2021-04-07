@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7335E2119B79BEB55D5C53A5196AA2D3"
-               BuildableName = "Pods_Forms.framework"
-               BlueprintName = "Pods-Forms"
+               BlueprintIdentifier = "DC2DE514D09CC89AD2694DE8431C4D5E"
+               BuildableName = "Pods_SwiftForms_SwiftFormsUITests.framework"
+               BlueprintName = "Pods-SwiftForms-SwiftFormsUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

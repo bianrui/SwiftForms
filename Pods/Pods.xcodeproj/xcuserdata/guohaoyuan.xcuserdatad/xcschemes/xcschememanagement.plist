@@ -32,21 +32,21 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>Pods-Forms-FormsUITests.xcscheme</key>
+		<key>Pods-SwiftForms-SwiftFormsUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
-		<key>Pods-Forms.xcscheme</key>
+		<key>Pods-SwiftForms.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>Pods-FormsTests.xcscheme</key>
+		<key>Pods-SwiftFormsTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

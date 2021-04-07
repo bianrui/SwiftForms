@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0CF539A3268CEE6901895AEE /* Pods_SwiftForms.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C51CD8BF503F7A19CF88CAD4 /* Pods_SwiftForms.framework */; };
+		19E77382E85AC4F41BC55A4E /* Pods_SwiftFormsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97024C9AA64F96C954F351BB /* Pods_SwiftFormsTests.framework */; };
 		249A5F7B261C6A2F009C9E3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5F7A261C6A2F009C9E3E /* AppDelegate.swift */; };
 		249A5F7D261C6A2F009C9E3E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5F7C261C6A2F009C9E3E /* SceneDelegate.swift */; };
 		249A5F7F261C6A2F009C9E3E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5F7E261C6A2F009C9E3E /* ViewController.swift */; };
@@ -42,9 +44,7 @@
 		249A60B8261D9037009C9E3E /* JSTextFieldCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609E261D9037009C9E3E /* JSTextFieldCell.swift */; };
 		249A60B9261D9037009C9E3E /* JSRadioBoxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609F261D9037009C9E3E /* JSRadioBoxCell.swift */; };
 		249A60BA261D9037009C9E3E /* JSLabelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A60A0261D9037009C9E3E /* JSLabelCell.swift */; };
-		8BA23DCD66038EC80E8FAE4E /* Pods_Forms.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B34D6D85DB2FBC4C9E6D4452 /* Pods_Forms.framework */; };
-		9D7F26FD5AB760FBFB520850 /* Pods_FormsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B26F31449C4DB4163BD37835 /* Pods_FormsTests.framework */; };
-		EBA3C9F43D244CCE85C53722 /* Pods_Forms_FormsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 789D03E5EE1895619683304A /* Pods_Forms_FormsUITests.framework */; };
+		7CCBE7F47D20BCC4110ED217 /* Pods_SwiftForms_SwiftFormsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92CF8D1AA15C731DD4A16D12 /* Pods_SwiftForms_SwiftFormsUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,7 +65,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		249A5F77261C6A2E009C9E3E /* Forms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Forms.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0130142E2E125F1182A4650A /* Pods-SwiftFormsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftFormsTests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftFormsTests/Pods-SwiftFormsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		0AF64C6C8DE06199CF4C5EF5 /* Pods-SwiftForms-SwiftFormsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftForms-SwiftFormsUITests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftForms-SwiftFormsUITests/Pods-SwiftForms-SwiftFormsUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		1CCE227A680EE61073ADA9F1 /* Pods-SwiftForms.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftForms.release.xcconfig"; path = "Target Support Files/Pods-SwiftForms/Pods-SwiftForms.release.xcconfig"; sourceTree = "<group>"; };
+		249A5F77261C6A2E009C9E3E /* SwiftForms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftForms.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		249A5F7A261C6A2F009C9E3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		249A5F7C261C6A2F009C9E3E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		249A5F7E261C6A2F009C9E3E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -73,10 +76,10 @@
 		249A5F83261C6A31009C9E3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		249A5F86261C6A31009C9E3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		249A5F88261C6A31009C9E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		249A5F8D261C6A32009C9E3E /* FormsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FormsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		249A5F8D261C6A32009C9E3E /* SwiftFormsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftFormsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		249A5F91261C6A32009C9E3E /* FormsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormsTests.swift; sourceTree = "<group>"; };
 		249A5F93261C6A32009C9E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		249A5F98261C6A32009C9E3E /* FormsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FormsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		249A5F98261C6A32009C9E3E /* SwiftFormsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftFormsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		249A5F9C261C6A32009C9E3E /* FormsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormsUITests.swift; sourceTree = "<group>"; };
 		249A5F9E261C6A32009C9E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		249A605D261C6DDD009C9E3E /* Report.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Report.json; sourceTree = "<group>"; };
@@ -109,12 +112,15 @@
 		2A2CD5CE404A75BFF547DE5D /* Pods-Forms.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Forms.debug.xcconfig"; path = "Target Support Files/Pods-Forms/Pods-Forms.debug.xcconfig"; sourceTree = "<group>"; };
 		2C9DCD0094B9FF4EB533EC80 /* Pods-Forms.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Forms.release.xcconfig"; path = "Target Support Files/Pods-Forms/Pods-Forms.release.xcconfig"; sourceTree = "<group>"; };
 		305D196B7FE94ABD27CB2EE3 /* Pods-FormsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FormsTests.release.xcconfig"; path = "Target Support Files/Pods-FormsTests/Pods-FormsTests.release.xcconfig"; sourceTree = "<group>"; };
+		3CB78446CEF2A2852E231730 /* Pods-SwiftFormsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftFormsTests.release.xcconfig"; path = "Target Support Files/Pods-SwiftFormsTests/Pods-SwiftFormsTests.release.xcconfig"; sourceTree = "<group>"; };
 		620DE183CBFC0CD40CA43FD3 /* Pods-Forms-FormsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Forms-FormsUITests.debug.xcconfig"; path = "Target Support Files/Pods-Forms-FormsUITests/Pods-Forms-FormsUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		6B91807910A1E0CB5C4D244B /* Pods-FormsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FormsTests.debug.xcconfig"; path = "Target Support Files/Pods-FormsTests/Pods-FormsTests.debug.xcconfig"; sourceTree = "<group>"; };
-		789D03E5EE1895619683304A /* Pods_Forms_FormsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Forms_FormsUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		92CF8D1AA15C731DD4A16D12 /* Pods_SwiftForms_SwiftFormsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftForms_SwiftFormsUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		97024C9AA64F96C954F351BB /* Pods_SwiftFormsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftFormsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB4A6AA7CF6F5AF540B1AFE0 /* Pods-SwiftForms.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftForms.debug.xcconfig"; path = "Target Support Files/Pods-SwiftForms/Pods-SwiftForms.debug.xcconfig"; sourceTree = "<group>"; };
 		B263B6C9DED97E9125B571E4 /* Pods-Forms-FormsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Forms-FormsUITests.release.xcconfig"; path = "Target Support Files/Pods-Forms-FormsUITests/Pods-Forms-FormsUITests.release.xcconfig"; sourceTree = "<group>"; };
-		B26F31449C4DB4163BD37835 /* Pods_FormsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FormsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B34D6D85DB2FBC4C9E6D4452 /* Pods_Forms.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Forms.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B735EE1660689E65645717B4 /* Pods-SwiftForms-SwiftFormsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftForms-SwiftFormsUITests.release.xcconfig"; path = "Target Support Files/Pods-SwiftForms-SwiftFormsUITests/Pods-SwiftForms-SwiftFormsUITests.release.xcconfig"; sourceTree = "<group>"; };
+		C51CD8BF503F7A19CF88CAD4 /* Pods_SwiftForms.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftForms.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,7 +128,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BA23DCD66038EC80E8FAE4E /* Pods_Forms.framework in Frameworks */,
+				0CF539A3268CEE6901895AEE /* Pods_SwiftForms.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,7 +136,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D7F26FD5AB760FBFB520850 /* Pods_FormsTests.framework in Frameworks */,
+				19E77382E85AC4F41BC55A4E /* Pods_SwiftFormsTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +144,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBA3C9F43D244CCE85C53722 /* Pods_Forms_FormsUITests.framework in Frameworks */,
+				7CCBE7F47D20BCC4110ED217 /* Pods_SwiftForms_SwiftFormsUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,9 +154,9 @@
 		04D1738EA68EF6973F6E1EA6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B34D6D85DB2FBC4C9E6D4452 /* Pods_Forms.framework */,
-				789D03E5EE1895619683304A /* Pods_Forms_FormsUITests.framework */,
-				B26F31449C4DB4163BD37835 /* Pods_FormsTests.framework */,
+				C51CD8BF503F7A19CF88CAD4 /* Pods_SwiftForms.framework */,
+				92CF8D1AA15C731DD4A16D12 /* Pods_SwiftForms_SwiftFormsUITests.framework */,
+				97024C9AA64F96C954F351BB /* Pods_SwiftFormsTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -170,9 +176,9 @@
 		249A5F78261C6A2E009C9E3E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				249A5F77261C6A2E009C9E3E /* Forms.app */,
-				249A5F8D261C6A32009C9E3E /* FormsTests.xctest */,
-				249A5F98261C6A32009C9E3E /* FormsUITests.xctest */,
+				249A5F77261C6A2E009C9E3E /* SwiftForms.app */,
+				249A5F8D261C6A32009C9E3E /* SwiftFormsTests.xctest */,
+				249A5F98261C6A32009C9E3E /* SwiftFormsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -285,6 +291,12 @@
 				B263B6C9DED97E9125B571E4 /* Pods-Forms-FormsUITests.release.xcconfig */,
 				6B91807910A1E0CB5C4D244B /* Pods-FormsTests.debug.xcconfig */,
 				305D196B7FE94ABD27CB2EE3 /* Pods-FormsTests.release.xcconfig */,
+				AB4A6AA7CF6F5AF540B1AFE0 /* Pods-SwiftForms.debug.xcconfig */,
+				1CCE227A680EE61073ADA9F1 /* Pods-SwiftForms.release.xcconfig */,
+				0AF64C6C8DE06199CF4C5EF5 /* Pods-SwiftForms-SwiftFormsUITests.debug.xcconfig */,
+				B735EE1660689E65645717B4 /* Pods-SwiftForms-SwiftFormsUITests.release.xcconfig */,
+				0130142E2E125F1182A4650A /* Pods-SwiftFormsTests.debug.xcconfig */,
+				3CB78446CEF2A2852E231730 /* Pods-SwiftFormsTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -292,9 +304,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		249A5F76261C6A2E009C9E3E /* Forms */ = {
+		249A5F76261C6A2E009C9E3E /* SwiftForms */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 249A5FA1261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "Forms" */;
+			buildConfigurationList = 249A5FA1261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "SwiftForms" */;
 			buildPhases = (
 				F2A0333DDC24BA290F715AE0 /* [CP] Check Pods Manifest.lock */,
 				249A5F73261C6A2E009C9E3E /* Sources */,
@@ -306,14 +318,14 @@
 			);
 			dependencies = (
 			);
-			name = Forms;
+			name = SwiftForms;
 			productName = Forms;
-			productReference = 249A5F77261C6A2E009C9E3E /* Forms.app */;
+			productReference = 249A5F77261C6A2E009C9E3E /* SwiftForms.app */;
 			productType = "com.apple.product-type.application";
 		};
-		249A5F8C261C6A32009C9E3E /* FormsTests */ = {
+		249A5F8C261C6A32009C9E3E /* SwiftFormsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 249A5FA4261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "FormsTests" */;
+			buildConfigurationList = 249A5FA4261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "SwiftFormsTests" */;
 			buildPhases = (
 				6A50DA70D9BE5F011F6810B1 /* [CP] Check Pods Manifest.lock */,
 				249A5F89261C6A32009C9E3E /* Sources */,
@@ -325,14 +337,14 @@
 			dependencies = (
 				249A5F8F261C6A32009C9E3E /* PBXTargetDependency */,
 			);
-			name = FormsTests;
+			name = SwiftFormsTests;
 			productName = FormsTests;
-			productReference = 249A5F8D261C6A32009C9E3E /* FormsTests.xctest */;
+			productReference = 249A5F8D261C6A32009C9E3E /* SwiftFormsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		249A5F97261C6A32009C9E3E /* FormsUITests */ = {
+		249A5F97261C6A32009C9E3E /* SwiftFormsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 249A5FA7261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "FormsUITests" */;
+			buildConfigurationList = 249A5FA7261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "SwiftFormsUITests" */;
 			buildPhases = (
 				87F0DE551AD0E732754DD628 /* [CP] Check Pods Manifest.lock */,
 				249A5F94261C6A32009C9E3E /* Sources */,
@@ -345,9 +357,9 @@
 			dependencies = (
 				249A5F9A261C6A32009C9E3E /* PBXTargetDependency */,
 			);
-			name = FormsUITests;
+			name = SwiftFormsUITests;
 			productName = FormsUITests;
-			productReference = 249A5F98261C6A32009C9E3E /* FormsUITests.xctest */;
+			productReference = 249A5F98261C6A32009C9E3E /* SwiftFormsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -372,7 +384,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 249A5F72261C6A2E009C9E3E /* Build configuration list for PBXProject "Forms" */;
+			buildConfigurationList = 249A5F72261C6A2E009C9E3E /* Build configuration list for PBXProject "SwiftForms" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -385,9 +397,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				249A5F76261C6A2E009C9E3E /* Forms */,
-				249A5F8C261C6A32009C9E3E /* FormsTests */,
-				249A5F97261C6A32009C9E3E /* FormsUITests */,
+				249A5F76261C6A2E009C9E3E /* SwiftForms */,
+				249A5F8C261C6A32009C9E3E /* SwiftFormsTests */,
+				249A5F97261C6A32009C9E3E /* SwiftFormsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -428,15 +440,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Forms-FormsUITests/Pods-Forms-FormsUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SwiftForms-SwiftFormsUITests/Pods-SwiftForms-SwiftFormsUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Forms-FormsUITests/Pods-Forms-FormsUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SwiftForms-SwiftFormsUITests/Pods-SwiftForms-SwiftFormsUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Forms-FormsUITests/Pods-Forms-FormsUITests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SwiftForms-SwiftFormsUITests/Pods-SwiftForms-SwiftFormsUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		26F6EAF4CD92A1E70B9B5C45 /* [CP] Embed Pods Frameworks */ = {
@@ -445,15 +457,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Forms/Pods-Forms-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SwiftForms/Pods-SwiftForms-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Forms/Pods-Forms-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SwiftForms/Pods-SwiftForms-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Forms/Pods-Forms-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SwiftForms/Pods-SwiftForms-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6A50DA70D9BE5F011F6810B1 /* [CP] Check Pods Manifest.lock */ = {
@@ -471,7 +483,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-FormsTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SwiftFormsTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -493,7 +505,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Forms-FormsUITests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SwiftForms-SwiftFormsUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -515,7 +527,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Forms-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SwiftForms-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -581,12 +593,12 @@
 /* Begin PBXTargetDependency section */
 		249A5F8F261C6A32009C9E3E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 249A5F76261C6A2E009C9E3E /* Forms */;
+			target = 249A5F76261C6A2E009C9E3E /* SwiftForms */;
 			targetProxy = 249A5F8E261C6A32009C9E3E /* PBXContainerItemProxy */;
 		};
 		249A5F9A261C6A32009C9E3E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 249A5F76261C6A2E009C9E3E /* Forms */;
+			target = 249A5F76261C6A2E009C9E3E /* SwiftForms */;
 			targetProxy = 249A5F99261C6A32009C9E3E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -729,7 +741,7 @@
 		};
 		249A5FA2261C6A32009C9E3E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A2CD5CE404A75BFF547DE5D /* Pods-Forms.debug.xcconfig */;
+			baseConfigurationReference = AB4A6AA7CF6F5AF540B1AFE0 /* Pods-SwiftForms.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -749,7 +761,7 @@
 		};
 		249A5FA3261C6A32009C9E3E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2C9DCD0094B9FF4EB533EC80 /* Pods-Forms.release.xcconfig */;
+			baseConfigurationReference = 1CCE227A680EE61073ADA9F1 /* Pods-SwiftForms.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -769,7 +781,7 @@
 		};
 		249A5FA5261C6A32009C9E3E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6B91807910A1E0CB5C4D244B /* Pods-FormsTests.debug.xcconfig */;
+			baseConfigurationReference = 0130142E2E125F1182A4650A /* Pods-SwiftFormsTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -786,13 +798,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Forms.app/Forms";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftForms.app/SwiftForms";
 			};
 			name = Debug;
 		};
 		249A5FA6261C6A32009C9E3E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 305D196B7FE94ABD27CB2EE3 /* Pods-FormsTests.release.xcconfig */;
+			baseConfigurationReference = 3CB78446CEF2A2852E231730 /* Pods-SwiftFormsTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -809,13 +821,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Forms.app/Forms";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftForms.app/SwiftForms";
 			};
 			name = Release;
 		};
 		249A5FA8261C6A32009C9E3E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 620DE183CBFC0CD40CA43FD3 /* Pods-Forms-FormsUITests.debug.xcconfig */;
+			baseConfigurationReference = 0AF64C6C8DE06199CF4C5EF5 /* Pods-SwiftForms-SwiftFormsUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -836,7 +848,7 @@
 		};
 		249A5FA9261C6A32009C9E3E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B263B6C9DED97E9125B571E4 /* Pods-Forms-FormsUITests.release.xcconfig */;
+			baseConfigurationReference = B735EE1660689E65645717B4 /* Pods-SwiftForms-SwiftFormsUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -858,7 +870,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		249A5F72261C6A2E009C9E3E /* Build configuration list for PBXProject "Forms" */ = {
+		249A5F72261C6A2E009C9E3E /* Build configuration list for PBXProject "SwiftForms" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				249A5F9F261C6A32009C9E3E /* Debug */,
@@ -867,7 +879,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		249A5FA1261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "Forms" */ = {
+		249A5FA1261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "SwiftForms" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				249A5FA2261C6A32009C9E3E /* Debug */,
@@ -876,7 +888,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		249A5FA4261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "FormsTests" */ = {
+		249A5FA4261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "SwiftFormsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				249A5FA5261C6A32009C9E3E /* Debug */,
@@ -885,7 +897,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		249A5FA7261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "FormsUITests" */ = {
+		249A5FA7261C6A32009C9E3E /* Build configuration list for PBXNativeTarget "SwiftFormsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				249A5FA8261C6A32009C9E3E /* Debug */,

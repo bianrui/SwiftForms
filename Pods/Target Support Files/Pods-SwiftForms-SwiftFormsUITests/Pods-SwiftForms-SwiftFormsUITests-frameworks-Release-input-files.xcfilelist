@@ -1,4 +1,4 @@
-${PODS_ROOT}/Target Support Files/Pods-Forms/Pods-Forms-frameworks.sh
+${PODS_ROOT}/Target Support Files/Pods-SwiftForms-SwiftFormsUITests/Pods-SwiftForms-SwiftFormsUITests-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/BRPickerView/BRPickerView.framework
 ${BUILT_PRODUCTS_DIR}/GKPhotoBrowser/GKPhotoBrowser.framework
 ${BUILT_PRODUCTS_DIR}/HandyJSON/HandyJSON.framework
