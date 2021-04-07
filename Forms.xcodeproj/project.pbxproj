@@ -15,33 +15,33 @@
 		249A5F87261C6A31009C9E3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 249A5F85261C6A31009C9E3E /* LaunchScreen.storyboard */; };
 		249A5F92261C6A32009C9E3E /* FormsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5F91261C6A32009C9E3E /* FormsTests.swift */; };
 		249A5F9D261C6A32009C9E3E /* FormsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5F9C261C6A32009C9E3E /* FormsUITests.swift */; };
-		249A6013261C6CCC009C9E3E /* JSFormModelTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5FF9261C6CCB009C9E3E /* JSFormModelTool.swift */; };
-		249A6014261C6CCC009C9E3E /* JSFormPickerTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5FFA261C6CCB009C9E3E /* JSFormPickerTools.swift */; };
-		249A6015261C6CCC009C9E3E /* JSFormHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5FFB261C6CCB009C9E3E /* JSFormHeaderView.swift */; };
-		249A6016261C6CCC009C9E3E /* JSIDCardKeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5FFC261C6CCB009C9E3E /* JSIDCardKeyboardView.swift */; };
-		249A6017261C6CCC009C9E3E /* JSFormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5FFD261C6CCB009C9E3E /* JSFormViewController.swift */; };
-		249A6018261C6CCC009C9E3E /* UICollectionViewLeftAlignedLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A5FFE261C6CCB009C9E3E /* UICollectionViewLeftAlignedLayout.swift */; };
-		249A6019261C6CCC009C9E3E /* JSBoxItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6000261C6CCB009C9E3E /* JSBoxItem.swift */; };
-		249A601A261C6CCC009C9E3E /* JSRadioItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6001261C6CCB009C9E3E /* JSRadioItem.swift */; };
-		249A601B261C6CCC009C9E3E /* JSMediaItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6002261C6CCB009C9E3E /* JSMediaItem.swift */; };
-		249A601C261C6CCC009C9E3E /* JSFormModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6003261C6CCB009C9E3E /* JSFormModel.swift */; };
-		249A601D261C6CCC009C9E3E /* JSFormHeaderModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6004261C6CCB009C9E3E /* JSFormHeaderModel.swift */; };
-		249A601E261C6CCC009C9E3E /* JSBoxViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6006261C6CCB009C9E3E /* JSBoxViewCell.swift */; };
-		249A601F261C6CCC009C9E3E /* JSBaseCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6007261C6CCB009C9E3E /* JSBaseCollectionCell.swift */; };
-		249A6020261C6CCC009C9E3E /* JSArrowCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6008261C6CCB009C9E3E /* JSArrowCell.swift */; };
-		249A6021261C6CCC009C9E3E /* JSBoxItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6009261C6CCB009C9E3E /* JSBoxItemCell.swift */; };
-		249A6022261C6CCC009C9E3E /* JSCheckBoxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A600A261C6CCB009C9E3E /* JSCheckBoxCell.swift */; };
-		249A6023261C6CCC009C9E3E /* JSSwitchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A600B261C6CCB009C9E3E /* JSSwitchCell.swift */; };
-		249A6024261C6CCC009C9E3E /* JSTextViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A600C261C6CCB009C9E3E /* JSTextViewCell.swift */; };
-		249A6025261C6CCC009C9E3E /* JSMediaViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A600D261C6CCB009C9E3E /* JSMediaViewCell.swift */; };
-		249A6026261C6CCC009C9E3E /* JSMediaItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A600E261C6CCB009C9E3E /* JSMediaItemCell.swift */; };
-		249A6027261C6CCC009C9E3E /* JSBaseViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A600F261C6CCB009C9E3E /* JSBaseViewCell.swift */; };
-		249A6028261C6CCC009C9E3E /* JSTextFieldCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6010261C6CCB009C9E3E /* JSTextFieldCell.swift */; };
-		249A6029261C6CCC009C9E3E /* JSRadioBoxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6011261C6CCB009C9E3E /* JSRadioBoxCell.swift */; };
-		249A602A261C6CCC009C9E3E /* JSLabelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6012261C6CCB009C9E3E /* JSLabelCell.swift */; };
-		249A6049261C6D68009C9E3E /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6038261C6D68009C9E3E /* String.swift */; };
 		249A605E261C6DDD009C9E3E /* Report.json in Resources */ = {isa = PBXBuildFile; fileRef = 249A605D261C6DDD009C9E3E /* Report.json */; };
-		249A6070261D84C9009C9E3E /* Forms.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249A606F261D84C8009C9E3E /* Forms.xcassets */; };
+		249A60A1261D9037009C9E3E /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6084261D9036009C9E3E /* String.swift */; };
+		249A60A2261D9037009C9E3E /* JSFormModelTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6086261D9036009C9E3E /* JSFormModelTool.swift */; };
+		249A60A3261D9037009C9E3E /* JSFormPickerTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6087261D9036009C9E3E /* JSFormPickerTools.swift */; };
+		249A60A4261D9037009C9E3E /* JSFormHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6088261D9036009C9E3E /* JSFormHeaderView.swift */; };
+		249A60A5261D9037009C9E3E /* JSIDCardKeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6089261D9036009C9E3E /* JSIDCardKeyboardView.swift */; };
+		249A60A6261D9037009C9E3E /* JSFormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A608A261D9036009C9E3E /* JSFormViewController.swift */; };
+		249A60A7261D9037009C9E3E /* UICollectionViewLeftAlignedLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A608B261D9036009C9E3E /* UICollectionViewLeftAlignedLayout.swift */; };
+		249A60A8261D9037009C9E3E /* JSBoxItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A608D261D9037009C9E3E /* JSBoxItem.swift */; };
+		249A60A9261D9037009C9E3E /* JSRadioItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A608E261D9037009C9E3E /* JSRadioItem.swift */; };
+		249A60AA261D9037009C9E3E /* JSMediaItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A608F261D9037009C9E3E /* JSMediaItem.swift */; };
+		249A60AB261D9037009C9E3E /* JSFormModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6090261D9037009C9E3E /* JSFormModel.swift */; };
+		249A60AC261D9037009C9E3E /* JSFormHeaderModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6091261D9037009C9E3E /* JSFormHeaderModel.swift */; };
+		249A60AD261D9037009C9E3E /* Forms.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249A6092261D9037009C9E3E /* Forms.xcassets */; };
+		249A60AE261D9037009C9E3E /* JSBoxViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6094261D9037009C9E3E /* JSBoxViewCell.swift */; };
+		249A60AF261D9037009C9E3E /* JSBaseCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6095261D9037009C9E3E /* JSBaseCollectionCell.swift */; };
+		249A60B0261D9037009C9E3E /* JSArrowCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6096261D9037009C9E3E /* JSArrowCell.swift */; };
+		249A60B1261D9037009C9E3E /* JSBoxItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6097261D9037009C9E3E /* JSBoxItemCell.swift */; };
+		249A60B2261D9037009C9E3E /* JSCheckBoxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6098261D9037009C9E3E /* JSCheckBoxCell.swift */; };
+		249A60B3261D9037009C9E3E /* JSSwitchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A6099261D9037009C9E3E /* JSSwitchCell.swift */; };
+		249A60B4261D9037009C9E3E /* JSTextViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609A261D9037009C9E3E /* JSTextViewCell.swift */; };
+		249A60B5261D9037009C9E3E /* JSMediaViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609B261D9037009C9E3E /* JSMediaViewCell.swift */; };
+		249A60B6261D9037009C9E3E /* JSMediaItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609C261D9037009C9E3E /* JSMediaItemCell.swift */; };
+		249A60B7261D9037009C9E3E /* JSBaseViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609D261D9037009C9E3E /* JSBaseViewCell.swift */; };
+		249A60B8261D9037009C9E3E /* JSTextFieldCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609E261D9037009C9E3E /* JSTextFieldCell.swift */; };
+		249A60B9261D9037009C9E3E /* JSRadioBoxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A609F261D9037009C9E3E /* JSRadioBoxCell.swift */; };
+		249A60BA261D9037009C9E3E /* JSLabelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249A60A0261D9037009C9E3E /* JSLabelCell.swift */; };
 		8BA23DCD66038EC80E8FAE4E /* Pods_Forms.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B34D6D85DB2FBC4C9E6D4452 /* Pods_Forms.framework */; };
 		9D7F26FD5AB760FBFB520850 /* Pods_FormsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B26F31449C4DB4163BD37835 /* Pods_FormsTests.framework */; };
 		EBA3C9F43D244CCE85C53722 /* Pods_Forms_FormsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 789D03E5EE1895619683304A /* Pods_Forms_FormsUITests.framework */; };
@@ -79,33 +79,33 @@
 		249A5F98261C6A32009C9E3E /* FormsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FormsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		249A5F9C261C6A32009C9E3E /* FormsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormsUITests.swift; sourceTree = "<group>"; };
 		249A5F9E261C6A32009C9E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		249A5FF9261C6CCB009C9E3E /* JSFormModelTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormModelTool.swift; sourceTree = "<group>"; };
-		249A5FFA261C6CCB009C9E3E /* JSFormPickerTools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormPickerTools.swift; sourceTree = "<group>"; };
-		249A5FFB261C6CCB009C9E3E /* JSFormHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormHeaderView.swift; sourceTree = "<group>"; };
-		249A5FFC261C6CCB009C9E3E /* JSIDCardKeyboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSIDCardKeyboardView.swift; sourceTree = "<group>"; };
-		249A5FFD261C6CCB009C9E3E /* JSFormViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormViewController.swift; sourceTree = "<group>"; };
-		249A5FFE261C6CCB009C9E3E /* UICollectionViewLeftAlignedLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICollectionViewLeftAlignedLayout.swift; sourceTree = "<group>"; };
-		249A6000261C6CCB009C9E3E /* JSBoxItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBoxItem.swift; sourceTree = "<group>"; };
-		249A6001261C6CCB009C9E3E /* JSRadioItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSRadioItem.swift; sourceTree = "<group>"; };
-		249A6002261C6CCB009C9E3E /* JSMediaItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSMediaItem.swift; sourceTree = "<group>"; };
-		249A6003261C6CCB009C9E3E /* JSFormModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormModel.swift; sourceTree = "<group>"; };
-		249A6004261C6CCB009C9E3E /* JSFormHeaderModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormHeaderModel.swift; sourceTree = "<group>"; };
-		249A6006261C6CCB009C9E3E /* JSBoxViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBoxViewCell.swift; sourceTree = "<group>"; };
-		249A6007261C6CCB009C9E3E /* JSBaseCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBaseCollectionCell.swift; sourceTree = "<group>"; };
-		249A6008261C6CCB009C9E3E /* JSArrowCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSArrowCell.swift; sourceTree = "<group>"; };
-		249A6009261C6CCB009C9E3E /* JSBoxItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBoxItemCell.swift; sourceTree = "<group>"; };
-		249A600A261C6CCB009C9E3E /* JSCheckBoxCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSCheckBoxCell.swift; sourceTree = "<group>"; };
-		249A600B261C6CCB009C9E3E /* JSSwitchCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSSwitchCell.swift; sourceTree = "<group>"; };
-		249A600C261C6CCB009C9E3E /* JSTextViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSTextViewCell.swift; sourceTree = "<group>"; };
-		249A600D261C6CCB009C9E3E /* JSMediaViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSMediaViewCell.swift; sourceTree = "<group>"; };
-		249A600E261C6CCB009C9E3E /* JSMediaItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSMediaItemCell.swift; sourceTree = "<group>"; };
-		249A600F261C6CCB009C9E3E /* JSBaseViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBaseViewCell.swift; sourceTree = "<group>"; };
-		249A6010261C6CCB009C9E3E /* JSTextFieldCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSTextFieldCell.swift; sourceTree = "<group>"; };
-		249A6011261C6CCB009C9E3E /* JSRadioBoxCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSRadioBoxCell.swift; sourceTree = "<group>"; };
-		249A6012261C6CCB009C9E3E /* JSLabelCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSLabelCell.swift; sourceTree = "<group>"; };
-		249A6038261C6D68009C9E3E /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 		249A605D261C6DDD009C9E3E /* Report.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Report.json; sourceTree = "<group>"; };
-		249A606F261D84C8009C9E3E /* Forms.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Forms.xcassets; sourceTree = "<group>"; };
+		249A6084261D9036009C9E3E /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		249A6086261D9036009C9E3E /* JSFormModelTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormModelTool.swift; sourceTree = "<group>"; };
+		249A6087261D9036009C9E3E /* JSFormPickerTools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormPickerTools.swift; sourceTree = "<group>"; };
+		249A6088261D9036009C9E3E /* JSFormHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormHeaderView.swift; sourceTree = "<group>"; };
+		249A6089261D9036009C9E3E /* JSIDCardKeyboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSIDCardKeyboardView.swift; sourceTree = "<group>"; };
+		249A608A261D9036009C9E3E /* JSFormViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormViewController.swift; sourceTree = "<group>"; };
+		249A608B261D9036009C9E3E /* UICollectionViewLeftAlignedLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICollectionViewLeftAlignedLayout.swift; sourceTree = "<group>"; };
+		249A608D261D9037009C9E3E /* JSBoxItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBoxItem.swift; sourceTree = "<group>"; };
+		249A608E261D9037009C9E3E /* JSRadioItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSRadioItem.swift; sourceTree = "<group>"; };
+		249A608F261D9037009C9E3E /* JSMediaItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSMediaItem.swift; sourceTree = "<group>"; };
+		249A6090261D9037009C9E3E /* JSFormModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormModel.swift; sourceTree = "<group>"; };
+		249A6091261D9037009C9E3E /* JSFormHeaderModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSFormHeaderModel.swift; sourceTree = "<group>"; };
+		249A6092261D9037009C9E3E /* Forms.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Forms.xcassets; sourceTree = "<group>"; };
+		249A6094261D9037009C9E3E /* JSBoxViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBoxViewCell.swift; sourceTree = "<group>"; };
+		249A6095261D9037009C9E3E /* JSBaseCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBaseCollectionCell.swift; sourceTree = "<group>"; };
+		249A6096261D9037009C9E3E /* JSArrowCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSArrowCell.swift; sourceTree = "<group>"; };
+		249A6097261D9037009C9E3E /* JSBoxItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBoxItemCell.swift; sourceTree = "<group>"; };
+		249A6098261D9037009C9E3E /* JSCheckBoxCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSCheckBoxCell.swift; sourceTree = "<group>"; };
+		249A6099261D9037009C9E3E /* JSSwitchCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSSwitchCell.swift; sourceTree = "<group>"; };
+		249A609A261D9037009C9E3E /* JSTextViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSTextViewCell.swift; sourceTree = "<group>"; };
+		249A609B261D9037009C9E3E /* JSMediaViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSMediaViewCell.swift; sourceTree = "<group>"; };
+		249A609C261D9037009C9E3E /* JSMediaItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSMediaItemCell.swift; sourceTree = "<group>"; };
+		249A609D261D9037009C9E3E /* JSBaseViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSBaseViewCell.swift; sourceTree = "<group>"; };
+		249A609E261D9037009C9E3E /* JSTextFieldCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSTextFieldCell.swift; sourceTree = "<group>"; };
+		249A609F261D9037009C9E3E /* JSRadioBoxCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSRadioBoxCell.swift; sourceTree = "<group>"; };
+		249A60A0261D9037009C9E3E /* JSLabelCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSLabelCell.swift; sourceTree = "<group>"; };
 		2A2CD5CE404A75BFF547DE5D /* Pods-Forms.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Forms.debug.xcconfig"; path = "Target Support Files/Pods-Forms/Pods-Forms.debug.xcconfig"; sourceTree = "<group>"; };
 		2C9DCD0094B9FF4EB533EC80 /* Pods-Forms.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Forms.release.xcconfig"; path = "Target Support Files/Pods-Forms/Pods-Forms.release.xcconfig"; sourceTree = "<group>"; };
 		305D196B7FE94ABD27CB2EE3 /* Pods-FormsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FormsTests.release.xcconfig"; path = "Target Support Files/Pods-FormsTests/Pods-FormsTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -180,8 +180,8 @@
 		249A5F79261C6A2F009C9E3E /* Forms */ = {
 			isa = PBXGroup;
 			children = (
+				249A6082261D9036009C9E3E /* Sources */,
 				249A605D261C6DDD009C9E3E /* Report.json */,
-				249A5FF7261C6CCB009C9E3E /* Sources */,
 				249A5F7A261C6A2F009C9E3E /* AppDelegate.swift */,
 				249A5F7C261C6A2F009C9E3E /* SceneDelegate.swift */,
 				249A5F7E261C6A2F009C9E3E /* ViewController.swift */,
@@ -211,69 +211,69 @@
 			path = FormsUITests;
 			sourceTree = "<group>";
 		};
-		249A5FF7261C6CCB009C9E3E /* Sources */ = {
+		249A6082261D9036009C9E3E /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				249A606F261D84C8009C9E3E /* Forms.xcassets */,
-				249A602E261C6D68009C9E3E /* Expand */,
-				249A5FF8261C6CCB009C9E3E /* JSFromTool */,
-				249A5FFB261C6CCB009C9E3E /* JSFormHeaderView.swift */,
-				249A5FFC261C6CCB009C9E3E /* JSIDCardKeyboardView.swift */,
-				249A5FFD261C6CCB009C9E3E /* JSFormViewController.swift */,
-				249A5FFE261C6CCB009C9E3E /* UICollectionViewLeftAlignedLayout.swift */,
-				249A5FFF261C6CCB009C9E3E /* JSFormModel */,
-				249A6005261C6CCB009C9E3E /* JSFormViewCell */,
+				249A6083261D9036009C9E3E /* Expand */,
+				249A6085261D9036009C9E3E /* JSFromTool */,
+				249A6088261D9036009C9E3E /* JSFormHeaderView.swift */,
+				249A6089261D9036009C9E3E /* JSIDCardKeyboardView.swift */,
+				249A608A261D9036009C9E3E /* JSFormViewController.swift */,
+				249A608B261D9036009C9E3E /* UICollectionViewLeftAlignedLayout.swift */,
+				249A608C261D9037009C9E3E /* JSFormModel */,
+				249A6092261D9037009C9E3E /* Forms.xcassets */,
+				249A6093261D9037009C9E3E /* JSFormViewCell */,
 			);
 			path = Sources;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
-		249A5FF8261C6CCB009C9E3E /* JSFromTool */ = {
+		249A6083261D9036009C9E3E /* Expand */ = {
 			isa = PBXGroup;
 			children = (
-				249A5FF9261C6CCB009C9E3E /* JSFormModelTool.swift */,
-				249A5FFA261C6CCB009C9E3E /* JSFormPickerTools.swift */,
+				249A6084261D9036009C9E3E /* String.swift */,
+			);
+			path = Expand;
+			sourceTree = "<group>";
+		};
+		249A6085261D9036009C9E3E /* JSFromTool */ = {
+			isa = PBXGroup;
+			children = (
+				249A6086261D9036009C9E3E /* JSFormModelTool.swift */,
+				249A6087261D9036009C9E3E /* JSFormPickerTools.swift */,
 			);
 			path = JSFromTool;
 			sourceTree = "<group>";
 		};
-		249A5FFF261C6CCB009C9E3E /* JSFormModel */ = {
+		249A608C261D9037009C9E3E /* JSFormModel */ = {
 			isa = PBXGroup;
 			children = (
-				249A6000261C6CCB009C9E3E /* JSBoxItem.swift */,
-				249A6001261C6CCB009C9E3E /* JSRadioItem.swift */,
-				249A6002261C6CCB009C9E3E /* JSMediaItem.swift */,
-				249A6003261C6CCB009C9E3E /* JSFormModel.swift */,
-				249A6004261C6CCB009C9E3E /* JSFormHeaderModel.swift */,
+				249A608D261D9037009C9E3E /* JSBoxItem.swift */,
+				249A608E261D9037009C9E3E /* JSRadioItem.swift */,
+				249A608F261D9037009C9E3E /* JSMediaItem.swift */,
+				249A6090261D9037009C9E3E /* JSFormModel.swift */,
+				249A6091261D9037009C9E3E /* JSFormHeaderModel.swift */,
 			);
 			path = JSFormModel;
 			sourceTree = "<group>";
 		};
-		249A6005261C6CCB009C9E3E /* JSFormViewCell */ = {
+		249A6093261D9037009C9E3E /* JSFormViewCell */ = {
 			isa = PBXGroup;
 			children = (
-				249A6006261C6CCB009C9E3E /* JSBoxViewCell.swift */,
-				249A6007261C6CCB009C9E3E /* JSBaseCollectionCell.swift */,
-				249A6008261C6CCB009C9E3E /* JSArrowCell.swift */,
-				249A6009261C6CCB009C9E3E /* JSBoxItemCell.swift */,
-				249A600A261C6CCB009C9E3E /* JSCheckBoxCell.swift */,
-				249A600B261C6CCB009C9E3E /* JSSwitchCell.swift */,
-				249A600C261C6CCB009C9E3E /* JSTextViewCell.swift */,
-				249A600D261C6CCB009C9E3E /* JSMediaViewCell.swift */,
-				249A600E261C6CCB009C9E3E /* JSMediaItemCell.swift */,
-				249A600F261C6CCB009C9E3E /* JSBaseViewCell.swift */,
-				249A6010261C6CCB009C9E3E /* JSTextFieldCell.swift */,
-				249A6011261C6CCB009C9E3E /* JSRadioBoxCell.swift */,
-				249A6012261C6CCB009C9E3E /* JSLabelCell.swift */,
+				249A6094261D9037009C9E3E /* JSBoxViewCell.swift */,
+				249A6095261D9037009C9E3E /* JSBaseCollectionCell.swift */,
+				249A6096261D9037009C9E3E /* JSArrowCell.swift */,
+				249A6097261D9037009C9E3E /* JSBoxItemCell.swift */,
+				249A6098261D9037009C9E3E /* JSCheckBoxCell.swift */,
+				249A6099261D9037009C9E3E /* JSSwitchCell.swift */,
+				249A609A261D9037009C9E3E /* JSTextViewCell.swift */,
+				249A609B261D9037009C9E3E /* JSMediaViewCell.swift */,
+				249A609C261D9037009C9E3E /* JSMediaItemCell.swift */,
+				249A609D261D9037009C9E3E /* JSBaseViewCell.swift */,
+				249A609E261D9037009C9E3E /* JSTextFieldCell.swift */,
+				249A609F261D9037009C9E3E /* JSRadioBoxCell.swift */,
+				249A60A0261D9037009C9E3E /* JSLabelCell.swift */,
 			);
 			path = JSFormViewCell;
-			sourceTree = "<group>";
-		};
-		249A602E261C6D68009C9E3E /* Expand */ = {
-			isa = PBXGroup;
-			children = (
-				249A6038261C6D68009C9E3E /* String.swift */,
-			);
-			path = Expand;
 			sourceTree = "<group>";
 		};
 		F767071BB4CE7866036FB859 /* Pods */ = {
@@ -398,7 +398,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				249A5F87261C6A31009C9E3E /* LaunchScreen.storyboard in Resources */,
-				249A6070261D84C9009C9E3E /* Forms.xcassets in Resources */,
+				249A60AD261D9037009C9E3E /* Forms.xcassets in Resources */,
 				249A5F84261C6A31009C9E3E /* Assets.xcassets in Resources */,
 				249A5F82261C6A2F009C9E3E /* Main.storyboard in Resources */,
 				249A605E261C6DDD009C9E3E /* Report.json in Resources */,
@@ -529,34 +529,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				249A6013261C6CCC009C9E3E /* JSFormModelTool.swift in Sources */,
-				249A601E261C6CCC009C9E3E /* JSBoxViewCell.swift in Sources */,
-				249A6022261C6CCC009C9E3E /* JSCheckBoxCell.swift in Sources */,
+				249A60B8261D9037009C9E3E /* JSTextFieldCell.swift in Sources */,
+				249A60AB261D9037009C9E3E /* JSFormModel.swift in Sources */,
+				249A60AC261D9037009C9E3E /* JSFormHeaderModel.swift in Sources */,
+				249A60B9261D9037009C9E3E /* JSRadioBoxCell.swift in Sources */,
+				249A60B7261D9037009C9E3E /* JSBaseViewCell.swift in Sources */,
+				249A60BA261D9037009C9E3E /* JSLabelCell.swift in Sources */,
 				249A5F7F261C6A2F009C9E3E /* ViewController.swift in Sources */,
-				249A6026261C6CCC009C9E3E /* JSMediaItemCell.swift in Sources */,
-				249A6028261C6CCC009C9E3E /* JSTextFieldCell.swift in Sources */,
-				249A602A261C6CCC009C9E3E /* JSLabelCell.swift in Sources */,
-				249A6025261C6CCC009C9E3E /* JSMediaViewCell.swift in Sources */,
-				249A6015261C6CCC009C9E3E /* JSFormHeaderView.swift in Sources */,
-				249A601D261C6CCC009C9E3E /* JSFormHeaderModel.swift in Sources */,
-				249A6021261C6CCC009C9E3E /* JSBoxItemCell.swift in Sources */,
 				249A5F7B261C6A2F009C9E3E /* AppDelegate.swift in Sources */,
-				249A6024261C6CCC009C9E3E /* JSTextViewCell.swift in Sources */,
-				249A6020261C6CCC009C9E3E /* JSArrowCell.swift in Sources */,
-				249A6014261C6CCC009C9E3E /* JSFormPickerTools.swift in Sources */,
-				249A6018261C6CCC009C9E3E /* UICollectionViewLeftAlignedLayout.swift in Sources */,
-				249A6017261C6CCC009C9E3E /* JSFormViewController.swift in Sources */,
-				249A6029261C6CCC009C9E3E /* JSRadioBoxCell.swift in Sources */,
-				249A6023261C6CCC009C9E3E /* JSSwitchCell.swift in Sources */,
-				249A601F261C6CCC009C9E3E /* JSBaseCollectionCell.swift in Sources */,
-				249A6019261C6CCC009C9E3E /* JSBoxItem.swift in Sources */,
-				249A6027261C6CCC009C9E3E /* JSBaseViewCell.swift in Sources */,
-				249A6049261C6D68009C9E3E /* String.swift in Sources */,
-				249A601B261C6CCC009C9E3E /* JSMediaItem.swift in Sources */,
-				249A6016261C6CCC009C9E3E /* JSIDCardKeyboardView.swift in Sources */,
+				249A60B3261D9037009C9E3E /* JSSwitchCell.swift in Sources */,
+				249A60A7261D9037009C9E3E /* UICollectionViewLeftAlignedLayout.swift in Sources */,
+				249A60B4261D9037009C9E3E /* JSTextViewCell.swift in Sources */,
+				249A60A2261D9037009C9E3E /* JSFormModelTool.swift in Sources */,
+				249A60A1261D9037009C9E3E /* String.swift in Sources */,
+				249A60B5261D9037009C9E3E /* JSMediaViewCell.swift in Sources */,
+				249A60A3261D9037009C9E3E /* JSFormPickerTools.swift in Sources */,
+				249A60A8261D9037009C9E3E /* JSBoxItem.swift in Sources */,
+				249A60B6261D9037009C9E3E /* JSMediaItemCell.swift in Sources */,
+				249A60A5261D9037009C9E3E /* JSIDCardKeyboardView.swift in Sources */,
 				249A5F7D261C6A2F009C9E3E /* SceneDelegate.swift in Sources */,
-				249A601A261C6CCC009C9E3E /* JSRadioItem.swift in Sources */,
-				249A601C261C6CCC009C9E3E /* JSFormModel.swift in Sources */,
+				249A60A4261D9037009C9E3E /* JSFormHeaderView.swift in Sources */,
+				249A60AF261D9037009C9E3E /* JSBaseCollectionCell.swift in Sources */,
+				249A60A6261D9037009C9E3E /* JSFormViewController.swift in Sources */,
+				249A60B0261D9037009C9E3E /* JSArrowCell.swift in Sources */,
+				249A60B2261D9037009C9E3E /* JSCheckBoxCell.swift in Sources */,
+				249A60AA261D9037009C9E3E /* JSMediaItem.swift in Sources */,
+				249A60A9261D9037009C9E3E /* JSRadioItem.swift in Sources */,
+				249A60AE261D9037009C9E3E /* JSBoxViewCell.swift in Sources */,
+				249A60B1261D9037009C9E3E /* JSBoxItemCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
